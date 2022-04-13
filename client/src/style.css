@@ -1,0 +1,44 @@
+body{
+    background-color: #383838;
+}
+.main-color{
+    background-color: #066163;
+}
+.secondary-color{
+    background-color: #CDBE78;
+}
+.tertiary-color{
+    background-color: #F2F2F2;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-30{
+    font-size: 30px;
+}
+.myBtn{
+    border-color: #CDBE78;
+    font-size: 20px;
+}
+.myBtn:hover{
+    background-color: #81774a;
+    border-color: #81774a;
+}
+.myBtn:active{
+    background-color: #81774a;
+    border-color: #81774a;
+}
+.myBtn:focus{
+    background-color: #81774a;
+    border-color: #81774a;
+}
+.res-title{
+    color: #F2F2F2;
+}
+.result-cont{
+    height: 100%;
+}
+.myBtn.disabled{
+    background-color: #CDBE78;
+    border-color: #CDBE78;
+}
